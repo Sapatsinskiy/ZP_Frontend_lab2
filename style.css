@@ -1,0 +1,19 @@
+.test{
+    background: lightcoral;
+}
+
+.tableLine{
+    display: flex;
+    flex-direction: row;
+
+}
+.tableBlock{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.selected {
+    background-color: yellow;
+ }
+ 
